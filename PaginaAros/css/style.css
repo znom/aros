@@ -64,3 +64,17 @@ p {
     text-align: center;
 }
 
+.cssCont {
+    background-color: black;
+    opacity: 85%;
+    margin-top: 35px;
+
+}
+
+.iniSesion {
+    margin: auto;
+    margin-bottom: 15px;
+    max-width: 30rem;
+    margin-bottom: 5px;
+    margin-top: 30px;
+}
