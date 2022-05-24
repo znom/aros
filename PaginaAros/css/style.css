@@ -1,4 +1,4 @@
-.card{
+.card {
 
 
     margin: auto;
@@ -7,16 +7,16 @@
 
 }
 
-h1{
+h1 {
 
-    
+
     text-align: center;
     margin-top: 50px;
 
 
 }
 
-p{
+p {
 
     text-align: center;
     margin-top: 50px;
@@ -26,11 +26,41 @@ p{
 
 .bi {
 
-    
+
     margin-top: 100px;
     margin-left: 100px;
 
 
 }
 
+
+/* clase para añadir margen de 10px a la fila de las primeras 3 cards para que no esten pegadas al namvar */
+.mar {
+    margin-top: 10px;
+}
+
+/* clase que añade la imagen y la ajusta */
+.fondoIndex {
+    background-image: url(/PaginaAros/img/Neon1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+/* color y fuente del texto */
+.colorTexto {
+    color: white;
+    font-family: monospace;
+}
+
+/* añade la opacidad */
+.cssOpacity {
+    opacity: 90%;
+}
+
+/* añade opacidad y centra el texto  */
+.cssOpacityCard {
+    opacity: 90%;
+    text-align: center;
+}
 
